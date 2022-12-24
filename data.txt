@@ -1,0 +1,14 @@
+Poet
+Naumenko
+300
+420
+4;iLoveGo;iLoveGoSoMuch;iLoveMars;Autobiography
+Poet
+Lervontov
+1890
+1987
+2;Stih1;Stih2
+Fantast
+Douglas
+1;Holistic
+1
